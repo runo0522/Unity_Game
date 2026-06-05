@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WallUpper
+  - Door
+  - NPC
+  - InteractorArea
+  - Interactor
+  - Rival
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player_Foot
+  - Water
+  - UI
+  - WallLower
+  - Interactables
+  - NPC
+  - PlayerInteract
+  - Player_Broom
+  - Ground
+  - Missile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer1
+    uniqueID: 881740045
+    locked: 0
+  - name: Layer2
+    uniqueID: 1753852133
+    locked: 0
+  - name: Layer3
+    uniqueID: 4294248553
+    locked: 0
+  - name: Layer4
+    uniqueID: 1603275953
+    locked: 0
+  - name: Layer 5
+    uniqueID: 1097225361
+    locked: 0
+  - name: Layer 6
+    uniqueID: 376342799
+    locked: 0
+  - name: Layer 7
+    uniqueID: 1175445805
+    locked: 0
+  - name: Layer 8
+    uniqueID: 4262633757
+    locked: 0
+  - name: Foreground
+    uniqueID: 2563294203
+    locked: 0

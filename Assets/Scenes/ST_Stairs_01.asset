@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f89b1b33fd294ed46ba9f1fd889cd4c6, type: 3}
+  m_Name: ST_Stairs_01
+  m_EditorClassIdentifier: 
+  templateId: stairs_01
+  difficulty: 1
+  sizeWH: {x: 8, y: 6}
+  platforms:
+  - localPos: {x: 1, y: 0.5}
+    size: {x: 2, y: 0.5}
+    type: 0
+    moveAmplitude: 0
+    movePeriod: 0
+    crumbleDelay: 0
+  - localPos: {x: 3, y: 1.7}
+    size: {x: 2, y: 0.5}
+    type: 0
+    moveAmplitude: 0
+    movePeriod: 0
+    crumbleDelay: 0
+  - localPos: {x: 5, y: 2.9}
+    size: {x: 2, y: 0.5}
+    type: 0
+    moveAmplitude: 0
+    movePeriod: 0
+    crumbleDelay: 0
+  - localPos: {x: 3, y: 4.1}
+    size: {x: 2, y: 0.5}
+    type: 1
+    moveAmplitude: 0
+    movePeriod: 0
+    crumbleDelay: 0
+  - localPos: {x: 6, y: 5.3}
+    size: {x: 2, y: 0.5}
+    type: 2
+    moveAmplitude: 0
+    movePeriod: 0
+    crumbleDelay: 0
+  entryAnchors:
+  - {x: 2, y: 1.1}
+  exitAnchors:
+  - {x: 7, y: 5.9}
+  mainRouteNodes:
+  - {x: 2, y: 1.1}
+  - {x: 4, y: 2.3}
+  - {x: 6, y: 3.5}
+  - {x: 4, y: 4.7}
+  - {x: 7, y: 5.9}
